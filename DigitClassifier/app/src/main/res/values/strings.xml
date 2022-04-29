@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Digit Classifier</string>
+    <string name="tfe_dc_app_name">TFL Digit Classifier</string>
+    <string name="tfe_dc_classification_error_message">Error classifying drawing: %s</string>
+    <string name="tfe_dc_clear_button_text">Clear</string>
+    <string name="tfe_dc_prediction_text_placeholder">Please draw a digit</string>
+</resources>
